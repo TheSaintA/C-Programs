@@ -37,6 +37,6 @@ int main(){
         }
     printf("\n");
     }
-    //Code of inverted pyramid starts from here...
+    //Code of inverted pyramid ends here...
 return 0;
 }
